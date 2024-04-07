@@ -11,6 +11,7 @@ import Stats from "./Stats";
 // ];
 
 export default function App() {
+  
   const [items, setItems] = useState([]);
   function handleAddItems(item) {
     setItems((items) => [...items, item]);
