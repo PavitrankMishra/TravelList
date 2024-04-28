@@ -21,3 +21,7 @@ For different components inside components prop drilling method is used to pass 
 It also shows how many items from the total items are packed in the bag.
 It uses array.from method to create a drop down option for a particular length.
 The array.sort method help to sort the array in increasing or decreasing order.
+
+
+### UI SCREENSHOTS
+![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/caa5e98b-d683-4268-a917-dbcc603ae788)
