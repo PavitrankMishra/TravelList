@@ -1,71 +1,17 @@
-# Getting Started with Create React App
+### DESCRIPTION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The link for this website is: https://travellingnomad.netlify.app/
+Welcome to TravelList, where your travel plans are made effortless with our intuitive checklist management system. Whether you're embarking on a globe-trotting adventure or a weekend getaway, ExploreEase is your go-to platform for organizing your packing essentials. Here's what sets us apart:
 
-## Available Scripts
 
-In the project directory, you can run:
+1.) Effortless Management: Add, delete, or modify items with just a few clicks. Our user-friendly interface ensures that updating your checklist is a breeze, so you can focus on planning your next adventure.
 
-### `npm start`
+2.)Smart Sorting: Keep your packing process organized with our sorting feature. Arrange items by category, priority, or any criteria that suits your needs. Say goodbye to chaos and hello to streamlined packing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It uses the latest webs tacks suchs as Html, Css, React.js.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# We initialize the state using useState([]) to manage the list of items.
+# We define functions like addItem, deleteItem, modifyItem, and sortItems that update the state based on user actions.
+# In the JSX, we render the list of items along with buttons to delete and modify items.
+# There's also an input field for adding new items, along with a button to trigger the addition.
+# When state changes, React re-renders the component with the updated list of items.
+# For different components inside components prop drilling method is used to pass the props.
