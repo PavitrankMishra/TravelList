@@ -9,9 +9,9 @@ Welcome to TravelList, where your travel plans are made effortless with our intu
 
 It uses the latest webs tacks suchs as Html, Css, React.js.
 
-# We initialize the state using useState([]) to manage the list of items.
-# We define functions like addItem, deleteItem, modifyItem, and sortItems that update the state based on user actions.
-# In the JSX, we render the list of items along with buttons to delete and modify items.
-# There's also an input field for adding new items, along with a button to trigger the addition.
-# When state changes, React re-renders the component with the updated list of items.
-# For different components inside components prop drilling method is used to pass the props.
+### We initialize the state using useState([]) to manage the list of items.
+### We define functions like addItem, deleteItem, modifyItem, and sortItems that update the state based on user actions.
+### In the JSX, we render the list of items along with buttons to delete and modify items.
+### There's also an input field for adding new items, along with a button to trigger the addition.
+### When state changes, React re-renders the component with the updated list of items.
+### For different components inside components prop drilling method is used to pass the props.
