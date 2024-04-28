@@ -24,4 +24,19 @@ The array.sort method help to sort the array in increasing or decreasing order.
 
 
 ### UI SCREENSHOTS
+
+### Landing Page(Sort By Input Orders)
 ![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/caa5e98b-d683-4268-a917-dbcc603ae788)
+
+### Adding Items
+![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/164f94b6-3eef-40fb-a261-cff24358babc)
+
+### Items Packed
+![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/c3152a48-7e6c-4504-a456-0e3609a5716d)
+
+### Sort By Description
+![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/ac4bf9de-c16c-4be4-bea3-df61f8983a5d)
+
+### Sort By Packed Status
+![image](https://github.com/PavitrankMishra/TravelList/assets/90948148/4b597ef0-9919-4655-b785-78eaf7adeafb)
+
