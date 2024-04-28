@@ -18,3 +18,5 @@ It uses the latest webs tacks suchs as Html, Css, React.js.
 ### When state changes, React re-renders the component with the updated list of items.
 ### For different components inside components prop drilling method is used to pass the props.
 ### It also shows how many items from the total items are packed in the bag.
+### It uses array.from method to create a drop down option for a particular length.
+### The array.sort method help to sort the array in increasing or decreasing order.
